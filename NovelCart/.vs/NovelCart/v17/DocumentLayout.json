@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2327011\\OneDrive - Cognizant\\Desktop\\C#\\NovelCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D0B2AC-7871-4580-9A7E-4F5CE34D1CF0}|NovelCart.csproj|c:\\users\\2327011\\onedrive - cognizant\\desktop\\c#\\novelcart\\logs\\nlog-all-2024-05-14.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69D0B2AC-7871-4580-9A7E-4F5CE34D1CF0}|NovelCart.csproj|solutionrelative:logs\\nlog-all-2024-05-14.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nlog-all-2024-05-14.log",
+              "DocumentMoniker": "C:\\Users\\2327011\\OneDrive - Cognizant\\Desktop\\C#\\NovelCart\\Logs\\nlog-all-2024-05-14.log",
+              "RelativeDocumentMoniker": "Logs\\nlog-all-2024-05-14.log",
+              "ToolTip": "C:\\Users\\2327011\\OneDrive - Cognizant\\Desktop\\C#\\NovelCart\\Logs\\nlog-all-2024-05-14.log",
+              "RelativeToolTip": "Logs\\nlog-all-2024-05-14.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T05:51:22.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

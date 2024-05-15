@@ -1,0 +1,240 @@
+2024-05-14 09:22:40.5455||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:22:45.4626||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: mehul |url: https://localhost/api/Login|action: Login
+2024-05-14 09:22:45.4782||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: mehul |url: https://localhost/api/Login|action: Login
+2024-05-14 09:23:01.6179||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 2 |url: https://localhost/api/Order/OrdersList/2|action: Get
+2024-05-14 09:23:43.8858||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:23:57.8147||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 2 |url: https://localhost/api/Order/OrdersList/2|action: Get
+2024-05-14 09:52:17.0870||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:53:27.8864||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:55:02.1854||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:55:27.5927||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:55:44.8370||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 09:55:44.8370||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 09:55:44.9586||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:55:49.7278||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/Novel/1|action: Get
+2024-05-14 09:55:51.4776||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:55:54.5565||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:56:35.9834||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:56:37.4966||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/Novel/1|action: Get
+2024-05-14 09:56:39.5886||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 09:56:43.7336||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:02:11.6107||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:02:13.3989||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/Novel/1|action: Get
+2024-05-14 10:02:14.8841||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:02:54.3854||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:18:16.5777||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: mehul |url: https://localhost/api/Login|action: Login
+2024-05-14 10:18:16.6464||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: mehul |url: https://localhost/api/Login|action: Login
+2024-05-14 10:18:18.4242||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:18:28.4367||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/1|action: Post
+2024-05-14 10:18:29.5744||INFO|NovelCart.DataAccess.CartRepository|Added novel to cart |url: https://localhost/api/Cart/AddNovelToCart/2/1|action: Post
+2024-05-14 10:18:29.6257||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/1|action: Post
+2024-05-14 10:18:29.7934||INFO|NovelCart.DataAccess.CartRepository|Got cart item count |url: https://localhost/api/Cart/AddNovelToCart/2/1|action: Post
+2024-05-14 10:18:30.0499||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/4|action: Post
+2024-05-14 10:18:30.1821||INFO|NovelCart.DataAccess.CartRepository|Added novel to cart |url: https://localhost/api/Cart/AddNovelToCart/2/4|action: Post
+2024-05-14 10:18:30.2415||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/4|action: Post
+2024-05-14 10:18:30.2752||INFO|NovelCart.DataAccess.CartRepository|Got cart item count |url: https://localhost/api/Cart/AddNovelToCart/2/4|action: Post
+2024-05-14 10:18:32.0587||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:32.1414||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:32.1849||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:32.1849||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:33.7662||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:33.8057||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:33.8334||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:33.8334||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:48.2902||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:18:48.3060||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:18:48.3238||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:18:48.3238||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:18:48.4791||INFO|NovelCart.DataAccess.OrderRepository|Created order for the user with id: 2 |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:18:48.4947||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:18:48.5585||INFO|NovelCart.DataAccess.CartRepository|Cleared cart items |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:18:48.8372||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 2 |url: https://localhost/api/Order/OrdersList/2|action: Get
+2024-05-14 10:18:54.8376||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/1|action: Post
+2024-05-14 10:18:54.8743||INFO|NovelCart.DataAccess.CartRepository|Added novel to cart |url: https://localhost/api/Cart/AddNovelToCart/2/1|action: Post
+2024-05-14 10:18:54.8743||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/1|action: Post
+2024-05-14 10:18:54.8841||INFO|NovelCart.DataAccess.CartRepository|Got cart item count |url: https://localhost/api/Cart/AddNovelToCart/2/1|action: Post
+2024-05-14 10:18:55.6547||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/2|action: Post
+2024-05-14 10:18:55.6695||INFO|NovelCart.DataAccess.CartRepository|Added novel to cart |url: https://localhost/api/Cart/AddNovelToCart/2/2|action: Post
+2024-05-14 10:18:55.6695||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/2|action: Post
+2024-05-14 10:18:55.6823||INFO|NovelCart.DataAccess.CartRepository|Got cart item count |url: https://localhost/api/Cart/AddNovelToCart/2/2|action: Post
+2024-05-14 10:18:55.8814||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/2|action: Post
+2024-05-14 10:18:55.9442||INFO|NovelCart.DataAccess.CartRepository|Added novel to cart |url: https://localhost/api/Cart/AddNovelToCart/2/2|action: Post
+2024-05-14 10:18:55.9618||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/2|action: Post
+2024-05-14 10:18:55.9870||INFO|NovelCart.DataAccess.CartRepository|Got cart item count |url: https://localhost/api/Cart/AddNovelToCart/2/2|action: Post
+2024-05-14 10:18:57.2116||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/4|action: Post
+2024-05-14 10:18:57.2493||INFO|NovelCart.DataAccess.CartRepository|Added novel to cart |url: https://localhost/api/Cart/AddNovelToCart/2/4|action: Post
+2024-05-14 10:18:57.2617||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/2/4|action: Post
+2024-05-14 10:18:57.2617||INFO|NovelCart.DataAccess.CartRepository|Got cart item count |url: https://localhost/api/Cart/AddNovelToCart/2/4|action: Post
+2024-05-14 10:18:58.8950||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:58.9236||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:58.9306||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 2 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:58.9306||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:18:58.9306||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:19:00.8081||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:19:00.8391||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:19:00.8391||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 2 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:19:00.8569||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:19:00.8569||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:19:24.4487||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:19:24.4625||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:19:24.4625||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 2 |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:19:24.4625||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:19:24.4625||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:19:24.5410||INFO|NovelCart.DataAccess.OrderRepository|Created order for the user with id: 2 |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:19:24.5410||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:19:24.5551||INFO|NovelCart.DataAccess.CartRepository|Cleared cart items |url: https://localhost/api/CheckOut/2|action: Post
+2024-05-14 10:19:24.7603||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 2 |url: https://localhost/api/Order/OrdersList/2|action: Get
+2024-05-14 10:19:47.1677||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 10:19:47.1677||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 10:20:10.1656||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:22:21.9637||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:22:22.2293||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 2 |url: https://localhost/api/Order/OrdersList/2|action: Get
+2024-05-14 10:24:49.0718||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:24:49.4941||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 2 |url: https://localhost/api/Order/OrdersList/2|action: Get
+2024-05-14 10:26:16.2123||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:26:16.3675||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 2 |url: https://localhost/api/Order/OrdersList/2|action: Get
+2024-05-14 10:27:05.7448||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:27:10.0898||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:27:36.8052||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:27:43.7272||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:27:56.3885||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:28:19.6818||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:28:31.7581||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:29:06.0087||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:29:06.7781||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:29:17.1261||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:29:19.0558||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:29:28.6198||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:29:38.9147||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 2 |url: https://localhost/api/Order/OrdersList/2|action: Get
+2024-05-14 10:29:39.8579||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:29:39.8579||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/2|action: Get
+2024-05-14 10:29:41.0719||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 2 |url: https://localhost/api/Order/OrdersList/2|action: Get
+2024-05-14 10:29:46.5871||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:30:02.8219||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 10:30:02.8219||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 10:30:02.9203||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:30:14.0550||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:30:38.9167||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:31:10.2914||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:31:50.9456||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:31:54.7277||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:31:56.6814||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:00.4145||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:02.4940||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:12.3525||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:15.4787||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:17.5098||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:27.8881||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:29.8063||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:33.1802||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:46.9627||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:32:48.2435||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:48.9321||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:32:49.7587||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:50.6345||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:32:51.5871||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:52.3525||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:32:53.2635||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:32:53.9615||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:32:54.7744||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:33:13.0251||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:33:51.5550||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:34:20.8674||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:34:23.8605||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:34:53.8850||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:34:56.8062||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:35:19.5083||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:37:45.4065||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:37:46.6656||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:37:47.9698||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:37:48.8726||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:38:25.5775||INFO|NovelCart.DataAccess.UserRepository|Registered the user with username:temp |url: https://localhost/api/User/RegisterUser|action: Post
+2024-05-14 10:38:37.8255||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: temp |url: https://localhost/api/Login|action: Login
+2024-05-14 10:38:37.8255||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: temp |url: https://localhost/api/Login|action: Login
+2024-05-14 10:38:37.9382||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:38:41.3376||INFO|NovelCart.DataAccess.CartRepository|Created cart for user |url: https://localhost/api/Cart/AddNovelToCart/3/4|action: Post
+2024-05-14 10:38:41.3376||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/3/4|action: Post
+2024-05-14 10:38:41.3592||INFO|NovelCart.DataAccess.CartRepository|Added novel to cart |url: https://localhost/api/Cart/AddNovelToCart/3/4|action: Post
+2024-05-14 10:38:41.3592||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/3/4|action: Post
+2024-05-14 10:38:41.3691||INFO|NovelCart.DataAccess.CartRepository|Got cart item count |url: https://localhost/api/Cart/AddNovelToCart/3/4|action: Post
+2024-05-14 10:39:47.5284||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:40:27.1371||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:40:30.7817||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:40:37.1799||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:40:41.7434||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:40:44.7454||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:40:48.2312||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:40:49.2983||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:40:49.3431||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:40:49.3431||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:40:50.5427||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 3 |url: https://localhost/api/Order/OrdersList/3|action: Get
+2024-05-14 10:40:51.7994||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:40:51.8254||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:40:51.8254||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:40:57.2606||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/3/9|action: Post
+2024-05-14 10:40:57.2741||INFO|NovelCart.DataAccess.CartRepository|Added novel to cart |url: https://localhost/api/Cart/AddNovelToCart/3/9|action: Post
+2024-05-14 10:40:57.2916||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/AddNovelToCart/3/9|action: Post
+2024-05-14 10:40:57.2916||INFO|NovelCart.DataAccess.CartRepository|Got cart item count |url: https://localhost/api/Cart/AddNovelToCart/3/9|action: Post
+2024-05-14 10:40:58.5899||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:40:58.6025||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:40:58.6025||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 9 |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:40:58.6025||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:41:00.1175||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:41:00.1175||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:41:00.1376||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 9 |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:41:00.1376||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 10:41:09.9150||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/CheckOut/3|action: Post
+2024-05-14 10:41:09.9318||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 4 |url: https://localhost/api/CheckOut/3|action: Post
+2024-05-14 10:41:09.9318||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 9 |url: https://localhost/api/CheckOut/3|action: Post
+2024-05-14 10:41:09.9318||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/CheckOut/3|action: Post
+2024-05-14 10:41:09.9463||INFO|NovelCart.DataAccess.OrderRepository|Created order for the user with id: 3 |url: https://localhost/api/CheckOut/3|action: Post
+2024-05-14 10:41:09.9463||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/CheckOut/3|action: Post
+2024-05-14 10:41:09.9626||INFO|NovelCart.DataAccess.CartRepository|Cleared cart items |url: https://localhost/api/CheckOut/3|action: Post
+2024-05-14 10:41:10.1347||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 3 |url: https://localhost/api/Order/OrdersList/3|action: Get
+2024-05-14 10:41:23.5799||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 10:41:23.5799||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 10:41:23.6663||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 10:41:25.6979||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:42:34.1177||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 10:42:35.1810||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 11:13:12.8062||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 11:13:17.2444||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 11:13:18.0871||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 11:13:18.8561||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 11:13:19.5869||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 11:13:20.2742||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 11:13:21.1336||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 11:13:21.8127||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 11:13:23.0245||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 11:14:48.6349||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 12:45:56.6370||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: mehul |url: https://localhost/api/Login|action: Login
+2024-05-14 12:45:56.6370||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: mehul |url: https://localhost/api/Login|action: Login
+2024-05-14 12:45:56.8090||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 13:24:15.3743||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 13:24:25.4006||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 13:24:35.1335||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 13:24:35.1335||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 13:24:35.2268||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 13:24:57.5490||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 13:24:59.6652||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/Novel/1|action: Get
+2024-05-14 13:25:01.5947||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 13:39:57.8838||INFO|NovelCart.DataAccess.OrderRepository|Got order details of all user |url: https://localhost/api/Order/Orders|action: Get
+2024-05-14 13:39:58.5613||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 14:17:08.3227||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 21:50:37.1504||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: mehul |url: https://localhost/api/Login|action: Login
+2024-05-14 21:50:44.5931||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: mehul |url: https://localhost/api/Login|action: Login
+2024-05-14 21:50:44.5931||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: mehul |url: https://localhost/api/Login|action: Login
+2024-05-14 21:50:45.0121||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 21:51:35.9453||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 21:51:46.7845||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 21:52:26.6717||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 21:52:26.6717||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: admin |url: https://localhost/api/Login|action: Login
+2024-05-14 21:52:26.8274||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 21:52:31.0002||INFO|NovelCart.DataAccess.NovelRepository|Got data of novel with id: 1 |url: https://localhost/api/Novel/1|action: Get
+2024-05-14 21:52:47.8274||INFO|NovelCart.DataAccess.UserRepository|Authenticated the user with username: temp |url: https://localhost/api/Login|action: Login
+2024-05-14 21:52:47.8274||INFO|NovelCart.DataAccess.UserRepository|Generated the JWT token for user with username: temp |url: https://localhost/api/Login|action: Login
+2024-05-14 21:52:55.3423||INFO|NovelCart.DataAccess.OrderRepository|Got order details of user with id: 3 |url: https://localhost/api/Order/OrdersList/3|action: Get
+2024-05-14 21:52:57.2983||INFO|NovelCart.DataAccess.CartRepository|Got cart Id |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 21:52:57.2983||INFO|NovelCart.DataAccess.NovelRepository|Got novels available in cart |url: https://localhost/api/Cart/GetCartItems/3|action: Get
+2024-05-14 21:53:48.3010||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get
+2024-05-14 21:54:51.7664||INFO|NovelCart.DataAccess.NovelRepository|Got all available novels data |url: https://localhost/api/Novel/|action: Get

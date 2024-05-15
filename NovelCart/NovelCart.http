@@ -1,0 +1,6 @@
+@NovelCart_HostAddress = http://localhost:5237
+
+GET {{NovelCart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

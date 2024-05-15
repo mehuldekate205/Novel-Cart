@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NovelCart</name>
+    </assembly>
+    <members>
+        <member name="M:NovelCart.Controllers.CartController.Get(System.Int32)">
+            <summary>
+            Get the list of items in the shopping cart.
+            </summary>
+            <param name="userId"></param>
+            <returns>The list of items in shopping cart.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.CartController.Post(System.Int32,System.Int32)">
+            <summary>
+            Add a single item into the shopping cart. If the item already exists, increase the quantity by one.
+            </summary>
+            <param name="userId"></param>
+            <param name="novelId"></param>
+            <returns>Count of items in the shopping cart.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.CartController.Put(System.Int32,System.Int32)">
+            <summary>
+            Reduces the quantity by one for an item in shopping cart.
+            </summary>
+            <param name="userId"></param>
+            <param name="novelId"></param>
+            <returns>The count of items remaining in shopping cart.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.CartController.Delete(System.Int32,System.Int32)">
+            <summary>
+            Delete a single item from the cart.
+            </summary>
+            <param name="userId"></param>
+            <param name="novelId"></param>
+            <returns>The count of items remaining in shopping cart.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.CartController.Delete(System.Int32)">
+            <summary>
+            Clear the shopping cart.
+            </summary>
+            <param name="userId"></param>
+            <returns>The count of items remaining in shopping cart.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.CheckOutController.Post(System.Int32)">
+            <summary>
+            Checkout from shopping cart
+            </summary>
+            <param name="userId"></param>
+            <param name="checkedOutItems"></param>
+            <returns>The count of items remaining in shopping cart.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.NovelController.Get">
+            <summary>
+            Get the list of available novels.
+            </summary>
+            <returns>List of novels.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.NovelController.Get(System.Int32)">
+            <summary>
+            Get the specific novel data corresponding to the NovelId.
+            </summary>
+            <param name="id"></param>
+            <returns>Novel data.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.NovelController.CategoryDetails">
+            <summary>
+            Get the list of available categories.
+            </summary>
+            <returns>List of Categories.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.NovelController.SimilarNovels(System.Int32)">
+            <summary>
+            Get the random five novels from the category of novel whose NovelId is supplied.
+            </summary>
+            <param name="novelId"></param>
+            <returns>List of five novels of same category.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.NovelController.Post(NovelCart.Models.Novel)">
+            <summary>
+            Add a new novel record
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NovelCart.Controllers.NovelController.Put(NovelCart.Models.Novel)">
+            <summary>
+            Update a particular novel record
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NovelCart.Controllers.NovelController.Delete(System.Int32)">
+            <summary>
+            Delete a particular novel record
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NovelCart.Controllers.OrderController.Get(System.Int32)">
+            <summary>
+            Get the list of all the orders placed by a particular user.
+            </summary>
+            <param name="userId"></param>
+            <returns>List of orders placed by user.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.UserController.Get(System.Int32)">
+            <summary>
+            Get the count of item in the shopping cart.
+            </summary>
+            <param name="userId"></param>
+            <returns>The count of items in shopping cart.</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.UserController.ValidateUserName(System.String)">
+            <summary>
+            Check the availability of the username
+            </summary>
+            <param name="username"></param>
+            <returns>True or False</returns>
+        </member>
+        <member name="M:NovelCart.Controllers.UserController.Post(NovelCart.Models.UserMaster)">
+            <summary>
+            Register a new user
+            </summary>
+            <param name="userData"></param>
+        </member>
+        <member name="T:NovelCart.Migrations.Initial">
+            <inheritdoc />
+        </member>
+        <member name="M:NovelCart.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:NovelCart.Migrations.Initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:NovelCart.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:JWTTutorial.Controllers.LoginController.Login(System.String,System.String)">
+            <summary>
+             Login for user.
+             </summary>
+             <param name="Username"></param>
+             <param name="Password"></param>
+             <returns>JWT token and user details.</returns>
+        </member>
+    </members>
+</doc>
