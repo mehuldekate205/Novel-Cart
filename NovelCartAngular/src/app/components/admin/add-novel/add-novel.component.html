@@ -1,0 +1,68 @@
+<mat-card class="my-4">
+    <mat-card-header class="custom-card-header mat-elevation-z2">
+        <mat-card-title class="mat-h1">{{ formTitle }} Novel </mat-card-title>
+    </mat-card-header>
+    <mat-card-content class="p-3">
+        <div class="row">
+            <div class="col-md-8">
+                <mat-card-content>
+                    <form enctype="multipart/form-data" [formGroup]="novelForm" (ngSubmit)="onFormSubmit()">
+                        <mat-form-field class="w-100" appearance="outline">
+                            <mat-label>Title</mat-label>
+                            <input matInput placeholder="Title" formControlName="title" required />
+                        </mat-form-field>
+
+                        <mat-form-field class="w-100" appearance="outline">
+                            <mat-label>Author</mat-label>
+                            <input matInput placeholder="Author" formControlName="author" required />
+                        </mat-form-field>
+
+                        <mat-form-field class="w-100" appearance="outline">
+                            <mat-label>Category</mat-label>
+                            <mat-select placeholder="Category" formControlName="categoryId" required>
+                                <mat-option *ngFor="let category of categoryList | async"
+                                    [value]="category.categoryId">
+                                    {{ category.categoryName }}
+                                </mat-option>
+                            </mat-select>
+                            <mat-error>Category is required</mat-error>
+                        </mat-form-field>
+
+                        <mat-form-field class="w-100" appearance="outline">
+                            <mat-label>Price</mat-label>
+                            <span matTextPrefix>&#8377; &nbsp;</span>
+                            <input matInput placeholder="Price" formControlName="price" type="number" required />
+                            <mat-error>Price cannot be less than 0</mat-error>
+                        </mat-form-field>
+                        <mat-form-field class="w-100" appearance="outline">
+                            <mat-label>Cover Image</mat-label>
+                            <input matInput placeholder="Cover Image Link" formControlName="coverFile" required (input)="addImage($event)"/>
+                            <mat-error>Cover Image Link is required</mat-error>
+                        </mat-form-field>
+                        <mat-card-actions align="end" class="p-0">
+                            <button type="submit" mat-raised-button color="primary">
+                                Save
+                            </button>
+                            <button type="button" mat-raised-button color="warn" class="ms-2"
+                                (click)="navigateToAdminPanel()">
+                                Cancel
+                            </button>
+                        </mat-card-actions>
+                    </form>
+                </mat-card-content>
+            </div>
+            <div
+        class="col-md-4 d-flex flex-column align-items-center justify-content-center"
+      >
+        <mat-card-content class="d-flex">
+          <img
+            class="preview-image p-2"
+            mat-card-image
+            src="{{ coverFile }}"
+            alt="Upload a poster image"
+          />
+        </mat-card-content>
+      </div>
+        </div>
+    </mat-card-content>
+</mat-card>

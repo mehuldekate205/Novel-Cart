@@ -1,0 +1,20 @@
+  img {
+    height: 350px;
+    width: 250px;
+  }
+  
+  td {
+    border-top: 0;
+    border-bottom: 1px solid #dee2e6;
+    width: 30%;
+    padding: 20px;
+  }
+  
+  td:nth-child(2) {
+    width: 70%;
+  }
+  
+  .custom-card-header {
+    background: #ffd740;
+    color: #000000;
+  }

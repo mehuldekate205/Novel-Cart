@@ -1,0 +1,23 @@
+<div class="row no-gutters pt-3">
+    <div class="col-md-3 col-sm-12">
+        <div class="filter-container">
+            <app-category-filter [categoryId]="categoryId"></app-category-filter>
+            <app-price-filter (priceValue)="filterPrice($event)"></app-price-filter>
+        </div>
+    </div>
+    <div class="col mb-3">
+        <div *ngIf="novels!.length > 0; else nodata" class="d-flex justify-content-start card-deck-container mb-4">
+            <div *ngFor="let novel of novels" class="p-1">
+                <app-novel-card [novel]="novel"></app-novel-card>
+            </div>
+        </div>
+        <ng-template #nodata>
+            <div class="d-flex justify-content-center mt-4">
+                <h1 class="display-4" *ngIf="!isLoading">No novels found.</h1>
+            </div>
+        </ng-template>
+        <div *ngIf="isLoading" class="d-flex align-items-center justify-content-center">
+            <mat-spinner></mat-spinner>
+        </div>
+    </div>
+</div>

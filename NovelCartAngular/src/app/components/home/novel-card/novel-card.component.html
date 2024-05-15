@@ -1,0 +1,13 @@
+<mat-card class="novel-card mat-elevation-z2" [class.on-novel-card-hover]="isActive" (mouseover)="isActive = true"
+    (mouseout)="isActive = false">
+    <a [routerLink]="['/noveldetails/', novel.novelId]" matTooltip="{{ novel.title }}" aria-label="Book title">
+    <img class="preview-image" mat-card-image src="{{ novel.coverFile }}" alt="Book cover image" />
+</a>
+    <mat-card-content>
+        <div class="card-title my-2">
+                <strong>{{ novel.title }}</strong>
+        </div>
+        <p>{{ novel.price | currency : "INR" }}</p>
+        <app-add-to-cart [novelId]="novel.novelId"></app-add-to-cart>
+    </mat-card-content>
+</mat-card>

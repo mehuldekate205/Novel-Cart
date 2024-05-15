@@ -1,0 +1,22 @@
+.spacer {
+    flex-grow: 1;
+  }
+  
+  a {
+    color: #ffffff;
+  }
+  
+  .brand-title {
+    button {
+      font-size: 18px;
+    }
+  }
+  
+  mat-toolbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+  }
+  

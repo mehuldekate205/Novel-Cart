@@ -1,0 +1,20 @@
+<mat-card class="my-4">
+    <mat-card-header class="mat-elevation-z2 custom-card-header justify-content-between">
+        <mat-card-title class="mat-h1"> Price Filter </mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        <mat-slider class="w-100 m-0" [max]="max" [min]="min" [step]=1>
+            <input matSliderThumb [(ngModel)]="value" (change)="onChange()" /></mat-slider>
+    </mat-card-content>
+    <mat-card-content>
+        <div class="d-flex justify-content-between">
+            <div>
+                <strong>{{ min | currency : "INR" }}</strong>
+            </div>
+            <div>to</div>
+            <div>
+                <strong>{{ value | currency : "INR" }}</strong>
+            </div>
+        </div>
+    </mat-card-content>
+</mat-card>

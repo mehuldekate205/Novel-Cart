@@ -1,0 +1,56 @@
+
+<form [formGroup]="_regform" (ngSubmit)="proceedregister()">
+    <mat-card>
+        <mat-card-header>
+          <h1>User Registeration</h1>
+        </mat-card-header>
+        <mat-card-content>
+            <mat-form-field appearance="outline">
+                <mat-label>First Name</mat-label>
+                <input formControlName="firstName" matInput />
+                <mat-error *ngIf="_regformControl.firstName.touched && _regformControl.firstName.errors?.['required']">
+                    First Name is required
+                </mat-error>
+            </mat-form-field>
+            <mat-form-field appearance="outline">
+                <mat-label>Last Name</mat-label>
+                <input formControlName="lastName" matInput />
+                <mat-error *ngIf="_regformControl.lastName.touched && _regformControl.lastName.errors?.['required']">
+                    Last Name is required
+                </mat-error>
+            </mat-form-field>
+            <mat-form-field appearance="outline">
+                <mat-label>Username</mat-label>
+                <input formControlName="username" matInput />
+                <mat-error *ngIf="_regformControl.username.touched && _regformControl.username.errors?.['required']">
+                    Username is required
+                </mat-error>
+            </mat-form-field>
+            <mat-form-field appearance="outline">
+                <mat-label>Password</mat-label>
+                <input formControlName="password" type="password" matInput />
+                <mat-error *ngIf="_regformControl.password.touched && _regformControl.password.errors?.['required'] ||
+                    _regformControl.password.errors?.['pattern']">Password should have minimum 8 characters, at least 1 uppercase
+                    letter, 1 lowercase letter, 1 number and 1 special character
+                </mat-error>
+            </mat-form-field>
+            <mat-radio-group formControlName="gender" aria-label="Select an option" color="primary" required>
+                <mat-radio-button value="Male">Male</mat-radio-button>
+                <mat-radio-button value="Female">Female</mat-radio-button>
+                <mat-error *ngIf="_regformControl.gender.touched && _regformControl.gender.errors?.['required']">
+                    Required
+                </mat-error>
+            </mat-radio-group>
+            
+        </mat-card-content>
+        <mat-card-actions>
+            <div class="div-50">
+                <button type="submit" mat-raised-button color="primary">Register</button>
+            </div>
+            <div class="div-50">
+                <a routerLink="/login" mat-raised-button color="accent">Back to Login</a>
+            </div>
+        </mat-card-actions>
+    </mat-card>
+
+</form>

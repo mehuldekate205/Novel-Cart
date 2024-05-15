@@ -1,0 +1,17 @@
+th,
+td {
+  border-top: 0;
+  border-bottom: 1px solid #dee2e6;
+  width: 20%;
+  padding: 20px;
+}
+
+th:nth-child(1),
+td:nth-child(1) {
+  width: 40%;
+}
+
+.custom-card-header {
+    background: #ffd740;
+    color: #000000;
+  }

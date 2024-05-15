@@ -1,0 +1,17 @@
+th,
+td {
+  width: 18%;
+}
+
+td:last-child {
+  width: 20%;
+}
+
+img {
+  width: 50%;
+}
+.custom-card-header {
+    background: #ffd740;
+    color: #000000;
+  }
+

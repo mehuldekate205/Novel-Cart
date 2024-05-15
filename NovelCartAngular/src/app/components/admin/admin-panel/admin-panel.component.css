@@ -1,0 +1,12 @@
+td,
+th {
+  width: 16%;
+}
+.spacer {
+    flex-grow: 1;
+  }
+
+  .custom-card-header {
+    background: #ffd740;
+    color: #000000;
+  }
