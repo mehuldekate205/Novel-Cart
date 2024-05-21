@@ -1,0 +1,232 @@
+Mystery
+
+  {
+    "title": "This Storm",
+    "author": "James Ellroy",
+    "categoryId": 3,
+    "price": 2232,
+    "coverFile": "https://books.google.co.in/books/publisher/content?id=DqPDCQAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U20cJ3k8KeEM4Bu8t-Dbmv0K4daoA&w=1280"
+  }
+
+  {
+    "title": "One Night at the Lake",
+    "author": " Bethany Chase",
+    "categoryId": 3,
+    "price": 555,
+    "coverFile": "https://books.google.co.in/books/publisher/content?id=vVlADwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2zuyWvBAVb04UiF-UVb1VI5tPXKg&w=1280"
+  }
+
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "JKR",
+    "categoryId": 3,
+    "price": 432,
+    "coverFile": "https://pictures.abebooks.com/isbn/9780439358071-us-300.jpg"
+  }
+
+  {
+    "title": "The Fault in Our Stars",
+    "author": " John Green ",
+    "categoryId": 3,
+    "price": 346,
+    "coverFile": "https://pictures.abebooks.com/isbn/9780142424179-us-300.jpg"
+  }
+
+  {
+    "title": "Slayer",
+    "author": " Kiersten White",
+    "categoryId": 3,
+    "price": 1234,
+    "coverFile": "https://pictures.abebooks.com/isbn/9781534404953-us-300.jpg"
+  }
+
+
+
+
+
+Romance
+
+  {
+    "title": "The Beholder",
+    "author": "Anna Bright ",
+    "categoryId": 5,
+    "price": 3333,
+    "coverFile": "https://pictures.abebooks.com/isbn/9780062845429-us-300.jpg"
+  }
+
+  {
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr ",
+    "categoryId": 5,
+    "price": 542,
+    "coverFile": "https://pictures.abebooks.com/isbn/9781501173219-us-300.jpg"
+  }
+
+  {
+    "title": "The Hookup",
+    "author": "Kristen Ashley ",
+    "categoryId": 5,
+    "price": 434,
+    "coverFile": "The Hookup.jpg"
+  }
+
+  {
+    "title": "Red Rising",
+    "author": "Pierce Brown",
+    "categoryId": 5,
+    "price": 512,
+    "coverFile": "https://pictures.abebooks.com/isbn/9780345539809-us-300.jpg"
+  }
+
+  {
+    "title": "A Court of Mist and Fury",
+    "author": "Sarah J. Maas ",
+    "categoryId": 5,
+    "price": 645,
+    "coverFile": "https://pictures.abebooks.com/isbn/9781635575583-us-300.jpg"
+  }
+
+
+
+
+
+
+
+
+Fiction
+
+  {
+    "title": "Curuk ve Harabe",
+    "author": "Jonathan ",
+    "categoryId": 2,
+    "price": 1211,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486632072i/18799023.jpg"
+  }
+
+  {
+    "title": "Magic for Liars",
+    "author": "Sarah Gailey ",
+    "categoryId": 2,
+    "price": 777,
+    "coverFile": "https://pictures.abebooks.com/isbn/9781250174611-us-300.jpg"
+  }
+
+  {
+    "title": "City of Girls",
+    "author": "Elizabeth Gilbert ",
+    "categoryId": 2,
+    "price": 1222,
+    "coverFile": "https://pictures.abebooks.com/isbn/9781594634734-us.jpg"
+  }
+
+  {
+    "title": "Robbie",
+    "author": "Ella Frank",
+    "categoryId": 2,
+    "price": 345,
+    "coverFile": "https://pictures.abebooks.com/isbn/9781986151443-us-300.jpg"
+  }
+
+  {
+    "title": "Wicked and the Wallflower",
+    "author": "Sarah MacLean",
+    "categoryId": 2,
+    "price": 512,
+    "coverFile": "https://pictures.abebooks.com/inventory/md/md31710386074._FMwebp_.jpg"
+  }
+
+
+
+
+
+
+
+Biography
+
+  {
+    "title": "The Help",
+    "author": "Kathryn Stockett",
+    "categoryId": 1,
+    "price": 124,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622355533i/4667024.jpg"
+  }
+
+  {
+    "title": "The Hate U Give",
+    "author": "Angie Thomas",
+    "categoryId": 1,
+    "price": 122,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476284759i/32075671.jpg"
+  }
+
+  {
+    "title": "The Simple Wild",
+    "author": "K.A. Tucker",
+    "categoryId": 1,
+    "price": 111,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663601138i/36373564.jpg"
+  }
+
+  {
+    "title": "The Last Pirate of New York: A Ghost Ship, a Killer, and the Birth of a Gangster Nation",
+    "author": "Rich Cohen",
+    "categoryId": 1,
+    "price": 1212,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544376126i/41880091.jpg"
+  }
+
+  {
+    "title": "Dr. Strange Beard",
+    "author": "Penny Reid",
+    "categoryId": 1,
+    "price": 312,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528200187i/30315676.jpg"
+  }
+
+
+
+
+
+
+
+Fantasy
+
+  {
+    "title": "Soul of the Sword",
+    "author": " Julie Kagawa",
+    "categoryId": 4,
+    "price": 5555,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539966253i/41733208.jpg"
+  }
+
+  {
+    "title": "A Dance with Dragons",
+    "author": "George R.R. Martin",
+    "categoryId": 4,
+    "price": 412,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581625286i/10664113.jpg"
+  }
+
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "categoryId": 4,
+    "price": 321,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413706054i/18007564.jpg"
+  }
+
+  {
+    "title": "All of Us with Wings",
+    "author": "Michelle Ruiz Keil ",
+    "categoryId": 4,
+    "price": 555,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545250105i/40177227.jpg"
+  }
+
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "JKR",
+    "categoryId": 4,
+    "price": 433,
+    "coverFile": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587697303i/1.jpg"
+  }
